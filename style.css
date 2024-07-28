@@ -1,0 +1,184 @@
+.container {
+    border: 2px #1f2937 solid;
+    background-color: #1f2937;
+    width: 1300px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.hcontainer {
+    display: flex;
+   border: solid #E5E7EB;
+    align-items: baseline;
+    justify-content: space-around;
+    width: 1500px;
+    flex-wrap: wrap;
+
+}
+
+.con2 {
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    
+}
+
+.con3 {
+    display: flex;
+    width: 1500px;
+    height: 400px;
+
+}
+
+.con4 {
+    padding: 70px 30px 100px 170PX;
+}
+
+.con5 {
+    padding: 100px 0px;
+}
+.bitem.c{
+    background-color:#3882f6;
+   padding: 5px;
+    display:inline-block;
+    border-radius: 5px;
+}
+.pictures{
+    display:flex;
+   justify-content: space-between;
+    width: 800px;
+    margin: 10px 100px 0px 300px;
+    flex: 1;
+}
+.con6{
+display: flex;
+margin: 0px 100px 10px 280px;
+justify-content: space-evenly;
+font-style: italic;
+flex: 1;
+width: 800px;
+}
+.discription{
+    color: #1f2937 ;
+    font: 36px extrabold;
+    width: 1200px;
+    text-align: center;
+    font-style: italic;
+    margin:0px 100px 10px 100px ;
+}
+.container3{
+    background-color: #E5E7EB;
+    width: 1300px;
+    height: 300px;
+    font-style:light italic;
+    color: #1f2937;
+    font-size: 36px;
+    display: flex;
+    flex-wrap: wrap;
+ align-items: center;
+   padding-left: 250px;
+  margin:0px ;
+justify-content: flex-start;
+}
+.con7{
+    width:700px;
+    padding-bottom: 70px 300px 50px 30px;
+}
+.con8{
+    align-self: flex-end;
+}
+.container4{
+    background-color: #3882f6;
+    color: #E5E7EB;
+    width:900px;
+   
+    border-radius:10px;
+  display: flex;
+justify-content: space-around;
+
+align-items: center;
+margin: 50px 250px;
+}
+.con10 p{
+border-radius: 3px;
+height:20px;
+padding:5px 10px ;
+border: #E5E7EB solid 1px;
+display: inline-block;
+}
+.con9.a{
+    font-weight: bold;
+}
+.container7{
+background-color: #1f2937;
+color: #E5E7EB;
+font-size: 12px;
+width: 1400px;
+display: flex;
+justify-content:center;
+}
+
+
+
+
+
+
+.bitem.b p{
+    margin-left:0px;
+    padding-left: 0px;
+display: inline-block;
+}
+
+.bitem.a {
+    display: block;
+}
+
+.bitem.c {
+    align-self: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hitem.a {
+    font-size: 24px;
+    color: #f9faf8;
+    display: nline;
+}
+
+a,
+.bitem.b,
+.bitem.c {
+    font: 18px;
+    color: #E5E7EB;
+
+}
+
+.bitem.a {
+    font: 48px extrabold;
+    color: #f9faf8;
+}
