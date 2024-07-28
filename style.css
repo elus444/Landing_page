@@ -53,11 +53,11 @@
 }
 .con6{
 display: flex;
-margin: 0px 100px 10px 305px;
+margin: 0px 100px 10px 255px;
 justify-content: space-evenly;
 font-style: italic;
 flex: 1;
-width: 800px;
+width: 900px;
 }
 .discription{
     color: #1f2937 ;
@@ -114,7 +114,7 @@ display: inline-block;
 background-color: #1f2937;
 color: #E5E7EB;
 font-size: 12px;
-width: 1400px;
+width: 1300px;
 display: flex;
 justify-content:center;
 }
@@ -132,7 +132,11 @@ display: inline-block;
 .bitem.c {
     align-self: flex-end;
 }
-
+.s1{
+    display: inline-block;
+  margin-left: 17px;
+  
+}
 
 
 
