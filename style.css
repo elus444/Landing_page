@@ -98,7 +98,7 @@ justify-content: flex-start;
 justify-content: space-around;
 
 align-items: center;
-margin: 50px 250px;
+margin: 50px 240px;
 }
 .con10 p{
 border-radius: 3px;
@@ -117,6 +117,7 @@ font-size: 12px;
 width: 1300px;
 display: flex;
 justify-content:center;
+
 }
 
 .bitem.b p{
