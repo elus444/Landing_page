@@ -65,11 +65,11 @@ width: 800px;
     width: 1200px;
     text-align: center;
     font-style: italic;
-    margin:0px 100px 10px 100px ;
+    margin:0px 100px 10px 80px ;
 }
 .container3{
     background-color: #E5E7EB;
-    width: 1300px;
+    width: 1050px;
     height: 300px;
     font-style:light italic;
     color: #1f2937;
@@ -77,8 +77,8 @@ width: 800px;
     display: flex;
     flex-wrap: wrap;
  align-items: center;
-   padding-left: 250px;
-  margin:0px ;
+padding-left: 250px;
+  margin-right: 0px;
 justify-content: flex-start;
 }
 .con7{
@@ -118,11 +118,6 @@ width: 1400px;
 display: flex;
 justify-content:center;
 }
-
-
-
-
-
 
 .bitem.b p{
     margin-left:0px;
